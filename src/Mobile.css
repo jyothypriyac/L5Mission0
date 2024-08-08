@@ -1,5 +1,5 @@
 @media (max-width:667px) {
-    body{ background-color: green;}
+    /* body{ background-color: green;} */
    .newsCards{
     flex-direction: column;
     margin-left: 10px;
@@ -9,3 +9,17 @@
         height: 40vh;
     }
 }
+
+@media screen and (max-width: 667px) {
+    .nav.responsive {position: relative;}
+    .nav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .nav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }

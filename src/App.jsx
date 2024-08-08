@@ -12,7 +12,7 @@ function App() {
  <Banner/>
  <div style={{height:'50vh',width:'100%',backgroundImage:`url(${bannerImage})`,backgroundSize: '100vw 100vh'}}>
   <div style={{color:'white', fontSize:'45px', fontWeight:'bold'}}>
-  lorem ipsom
+  Paris 2024 Olympics
   <div className='searchBox'>
       <input type="text" style={{width:'20%'}} />
       <button className='searchButton'>Search</button>
