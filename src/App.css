@@ -1,0 +1,19 @@
+.appBody {
+
+width: 100%;
+}
+.searchBox{
+    display: flex;
+    margin-top: 30vh;
+    width: 100%;
+    justify-content: center;
+}
+.searchButton{
+    margin-left: 1px;
+    height: 27px;
+    background-color: lightcoral;
+}
+.newsCards{
+    display: flex;
+    flex-direction: row;
+}
