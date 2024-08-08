@@ -1,8 +1,14 @@
-# React + Vite
+What the project does
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Website is for the Marketing Association New Zealand as a template for their new digital news home page.
 
-Currently, two official plugins are available:
+Why the project is useful
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The webpage is responsive and is a template to show the Digital News
+
+How users can get started with the project
+
+ - Clone this repository
+ - npm install 
+    - from the project repository folder
+ - then to run the project run the command - npm run dev
