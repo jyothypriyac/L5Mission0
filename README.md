@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Mission 0:
-=======
-Mission 0
->>>>>>> bc637ce010a89bf2b67d0511d52400c165b66253
+
 
 What the project does
 
