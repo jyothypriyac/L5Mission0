@@ -12,7 +12,6 @@ export default function Cards() {
         <img className={styles.cardImage} src="/image/download.jpg" />
         <div className={styles.headingDiv}>
           <div className={styles.heading}>
-            {" "}
             Rebecca Petch, Shaane Fulton and Ellesse Andrews
           </div>
           <div className={styles.subHeading}>Three-woman sprint relay </div>
