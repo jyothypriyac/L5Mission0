@@ -1,28 +1,10 @@
 .userContainer {
-    /* background-color: #e47c7c80; */
-    /* border-radius: 30px;
-    width: 100%;
-    margin: 40px;
-    padding: 5px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));*/
-  
-    /* auto-fit, tells the grid to create as many columns as possible while respecting the minimum and maximum
     
-    1fr = a fraction of the available space.
-     */
-    /* justify-content: center;
-    align-items: center;
-    column-gap: 50px; */ 
     border-radius: 30px;
     width: 98%;
     margin-right: 1%;
   }
-  .containerBottom {
-    background-color: aqua;
 
-
-  }
   .headingDiv{
     display: flex;
     flex-direction: column;

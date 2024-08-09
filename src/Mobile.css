@@ -1,5 +1,4 @@
 @media (max-width:667px) {
-    /* body{ background-color: green;} */
    .newsCards{
     flex-direction: column;
     margin-left: 10px;

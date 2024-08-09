@@ -10,7 +10,8 @@ width: 100%;
 }
 .searchButton{
     margin-left: 1px;
-    height: 27px;
+    width: 10%;
+    height: 42px;
     background-color: lightcoral;
 }
 .newsCards{

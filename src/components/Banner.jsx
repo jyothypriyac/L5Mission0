@@ -1,5 +1,5 @@
 import { DiRuby } from "react-icons/di";
-import styles from './Banner.module.css'
+import styles from "./Banner.module.css";
 
 export default function () {
   function myFunction() {
@@ -12,7 +12,11 @@ export default function () {
   }
   return (
     <div className={styles.nav}>
-      <div style={{ width: "20%",fontWeight:"bold"}}> <DiRuby />DIGITAL NEWS</div>
+      <div style={{ width: "20%", fontWeight: "bold" }}>
+        {" "}
+        <DiRuby />
+        DIGITAL NEWS
+      </div>
 
       <div
         style={{
@@ -27,10 +31,14 @@ export default function () {
         <a href="#contact">Contact</a>
         <a href="#about">About</a>
         <button style={{ margin: "1%" }}>Login</button>
-        <a href="javascript:void(0);" className={styles.icon} onclick="myFunction()">
+        <a
+          href="javascript:void(0);"
+          className={styles.icon}
+          onclick="myFunction()"
+        >
           <i class="fa fa-bars"></i>
         </a>
       </div>
     </div>
-  )
+  );
 }
