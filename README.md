@@ -1,3 +1,5 @@
+Mission 0
+
 What the project does
 
 This Website is for the Marketing Association New Zealand as a template for their new digital news home page.
